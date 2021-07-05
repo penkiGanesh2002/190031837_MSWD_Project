@@ -1,0 +1,16 @@
+										PROJECT 2 E-COMMERCE-APP:-
+This react project was developed by:
+
+1.TEAM LEAD NAME & ID NO  : PENKI GANESH  ID:190031837
+
+2.TEAM MEMBER NAME & ID NO: PENKI RAM PRASAD ID:190031838
+
+PROJECT ID:2
+
+PROJECT TITLE:"E-COMMERCE-APP"
+ 
+Running the project:-[:-]
+ 1.Install node.js and npm.
+ 2.Install dependencies $ npm install 
+ 3.Start app And run the app $ npm start 
+ 4.Go to http://localhost:3000
